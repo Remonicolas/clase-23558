@@ -51,16 +51,7 @@ body {
     min-height:500px;
     position:relative;
 }
-#contenedor-formulario{
-    position:absolute;
-    justify-content: center !important;
-    top:30%;
-    left:50%;
-    transform: translate(-50%, -50%);
-    background: #fbfafa;
-    border-radius:5px;
-    
-}
+
 
 #titulo-formulario {
     color: #3f3f3f;
